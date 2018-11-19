@@ -1,2 +1,2 @@
 # mips_black
-Mips Assembly Notepad++ Coloration (Blackboard)
+Mips Assembly Notepad++ Coloration (Dracula)
